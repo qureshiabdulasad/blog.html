@@ -8,3 +8,4 @@ temp = x[i];
 x[i] = x[min];
 x[min] = temp;
 }
+12345678910
